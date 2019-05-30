@@ -2,27 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Igor Oliveira</title>
-    <link>https://igorolivei.github.io/</link>
+    <link>https://igorolivei.gitlab.io/index.html</link>
     <description>Recent content on Igor Oliveira</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://igorolivei.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://igorolivei.gitlab.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Sobre</title>
-      <link>https://igorolivei.github.io/about/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://igorolivei.github.io/about/</guid>
-      <description>Natalense/potiguar morando em São Paulo.
-Técnico em Informática pelo IFRN e graduando em Análise e Desenvolvimento de Sistemas.
-Com 4 anos de experiência com desenvolvimento de software, trabalho atualmente na Instruct como Consultor DevOps, atuando na implantação de diversas ferramentas DevOps, treinamentos e melhorias nos processos e cultura de empresas.
-Profissional certificado Puppet, e procurando me aprofundar cada vez mais em infraestrutura como código.
-Se desejar entrar em contato, pode entrar em contato pelas redes sociais ou por e-mail: igor.</description>
-    </item>
     
   </channel>
 </rss>
