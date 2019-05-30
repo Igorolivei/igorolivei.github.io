@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://igorolivei.gitlab.io/en/index.html</loc>
+    <loc>https://igorolivei.github.io/en/index.html</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://igorolivei.gitlab.io/index.html"
+                href="https://igorolivei.github.io/index.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://igorolivei.gitlab.io/en/index.html"
+                href="https://igorolivei.github.io/en/index.html"
                 />
   </url>
   
   <url>
-    <loc>https://igorolivei.gitlab.io/en/</loc>
+    <loc>https://igorolivei.github.io/en/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://igorolivei.gitlab.io/"
+                href="https://igorolivei.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://igorolivei.gitlab.io/en/"
+                href="https://igorolivei.github.io/en/"
                 />
   </url>
   
   <url>
-    <loc>https://igorolivei.gitlab.io/en/tags/</loc>
+    <loc>https://igorolivei.github.io/en/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://igorolivei.gitlab.io/tags/"
+                href="https://igorolivei.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://igorolivei.gitlab.io/en/tags/"
+                href="https://igorolivei.github.io/en/tags/"
                 />
   </url>
   

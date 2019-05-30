@@ -3,53 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://igorolivei.gitlab.io/</loc>
+    <loc>https://igorolivei.github.io/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://igorolivei.gitlab.io/en/"
+                href="https://igorolivei.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://igorolivei.gitlab.io/"
+                href="https://igorolivei.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://igorolivei.gitlab.io/about/</loc>
+    <loc>https://igorolivei.github.io/about/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://igorolivei.gitlab.io/index.html</loc>
+    <loc>https://igorolivei.github.io/index.html</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://igorolivei.gitlab.io/en/index.html"
+                href="https://igorolivei.github.io/en/index.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://igorolivei.gitlab.io/index.html"
+                href="https://igorolivei.github.io/index.html"
                 />
   </url>
   
   <url>
-    <loc>https://igorolivei.gitlab.io/tags/</loc>
+    <loc>https://igorolivei.github.io/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://igorolivei.gitlab.io/en/tags/"
+                href="https://igorolivei.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://igorolivei.gitlab.io/tags/"
+                href="https://igorolivei.github.io/tags/"
                 />
   </url>
   
