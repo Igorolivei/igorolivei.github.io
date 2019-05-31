@@ -1,0 +1,151 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Igor Oliveira</title>
+        <link>https://igorolivei.github.io/posts/</link>
+        <description>Recent content in Posts on Igor Oliveira</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Thu, 30 May 2019 21:25:09 -0300</lastBuildDate>
+        <atom:link href="https://igorolivei.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Da zona de conforto ao aprendizado contínuo</title>
+            <link>https://igorolivei.github.io/posts/2019/05/da-zona-de-conforto-ao-aprendizado-cont%C3%ADnuo/</link>
+            <pubDate>Thu, 30 May 2019 21:25:09 -0300</pubDate>
+            
+            <guid>https://igorolivei.github.io/posts/2019/05/da-zona-de-conforto-ao-aprendizado-cont%C3%ADnuo/</guid>
+            <description>Introdução Na última semana estive no DevOpsDays Porto Alegre apresentando uma palestra com o título &amp;ldquo;Da zona de conforto ao aprendizado contínuo e como as three ways podem te ajudar nesse processo&amp;rdquo;. A motivação para começar a palestrar em eventos parte justamente da minha motivação em sair da minha zona de conforto, uma vez que sempre tive um grande medo de falar em público e, por isso, sempre evitei fazê-lo.</description>
+            <content type="html"><![CDATA[
+
+<h2 id="introdução">Introdução</h2>
+
+<p>Na última semana estive no DevOpsDays Porto Alegre apresentando uma palestra com o título <strong>&ldquo;Da zona de conforto ao aprendizado contínuo e como as three ways podem te ajudar nesse processo&rdquo;</strong>. A motivação para começar a palestrar em eventos parte justamente da minha motivação em sair da minha zona de conforto, uma vez que sempre tive um grande medo de falar em público e, por isso, sempre evitei fazê-lo.</p>
+
+<p>A ideia aqui é transcrever mais ou menos o que falei lá e acrescentar mais algumas coisas que vim pensando depois; aproveitando para começar a prática de escrever e compartilhar mais meu conhecimento, e, consequentemente, aprender mais.</p>
+
+<p>Os slides da palestra estão <a href="https://speakerdeck.com/igorolivei/da-zona-de-conforto-ao-aprendizado-continuo" target="_blank">aqui</a>.</p>
+
+<h2 id="a-zona-de-conforto">A zona de conforto</h2>
+
+<p>A zona de conforto é algo que pode estar presente em qualquer área da sua vida, mas minha intenção é focar mais na parte profissional.</p>
+
+<p>Minha motivação em falar mais sobre isso foi uma conversa com um colega que veio me falar que se sente muito estagnado, e gostaria de &ldquo;mudar&rdquo;; daí comecei a falar algumas coisas da minha (curta) experiência e que podem vir a ser úteis para outras pessoas.</p>
+
+<p>A zona de conforto nada mais é do que uma série de pensamentos, atitudes e comportamentos que te fazem se sentir seguro, não te trazem nenhum medo, estresse, ansiedade ou sustos, e que te fazem manter uma rotina e padrão de comportamento; afinal, você não quer que nada mude.</p>
+
+<p>Aproveito pra dizer que estar na zona de conforto não é algo necessariamente ruim, desde que esteja alinhado com seus objetivos (o que não acontece em boa parte dos casos).</p>
+
+<p>Normalmente quando se está na zona de conforto, você não sai do lugar. Fica exatamente realizando as mesmas atividades e consequentemente não evolui. No meu último emprego eu estava assim. Parte por minha culpa, parte por culpa do ambiente em que eu trabalhava mesmo, que não demandava de mim nenhum esforço novo.</p>
+
+<p>Aqui vão alguns motivos pra sair da zona de conforto:</p>
+
+<ul>
+<li>A sensação de segurança quando se está na zona de conforto é <strong>falsa</strong>, uma vez que algo pode acontecer (como você ser demitido, por exemplo) e você vai ser forçado a sair da sua zona de conforto, o que geraria um estresse muito maior que resolver sair por conta própria</li>
+<li>Quando você sai da zona de conforto sua produtividade aumenta, já que você consegue estudar no seu próprio ritmo</li>
+<li>Consequentemente você aprende a lidar com o inesperado, já que está mais acostumado a lidar com coisas novas</li>
+<li>Conhecer mais coisas significa ter um aumento na criatividade</li>
+<li>Você descobre novos talentos quando aprende mais, e eu sou uma prova disso: no último ano parei de trabalhar com desenvolvimento web e passei a trabalhar como Consultor DevOps, depois de conhecer novas tecnologias que me permitiram entrar mais nessa área</li>
+<li><a href="https://epocanegocios.globo.com/Carreira/noticia/2018/10/quer-aprender-algo-novo-saia-da-sua-zona-de-conforto.html" target="_blank">A estabilidade desliga seu cérebro</a></li>
+</ul>
+
+<p>Percebi o quão negativo estava sendo para mim estar na zona de conforto depois que resolvi sair do emprego em que estava. Não ter chance e motivação para evoluir (não que a falta de motivação fosse culpa do emprego) foi um dos motivos para ter me demitido, mas não o principal. De toda forma, aí vão alguns sintomas de que você está na zona de conforto (de maneira negativa):</p>
+
+<ul>
+<li>Você mantém um desempenho constante, não evolui nem aprende nada novo nunca</li>
+<li>Já faz um tempo que você precisou (ou quis mesmo) aprender alguma coisa nova</li>
+<li>A ideia de alguma mudança que vá além de trocar de sala sempre te assusta, afinal você não está preparado para isso</li>
+<li>Você sempre reclama do seu trabalho, das tarefas que faz, mas não faz absolutamente nada para mudar isso</li>
+<li>Acordar de manhã e lembrar que tem que trabalhar é sempre uma tortura (e os finais de semana são um alívio)</li>
+<li>Sua rotina não está alinhada com o que você quer para sua vida</li>
+</ul>
+
+<h3 id="estou-na-zona-de-conforto-e-agora">Estou na zona de conforto, e agora?</h3>
+
+<p>Só senti mesmo o impacto de estar na zona de conforto quando comecei a procurar um novo emprego. No primeiro momento eu me senti realmente desesperado:</p>
+
+<ul>
+<li>A cada vaga nova que eu via tinha vontade de pedir para voltar para o emprego anterior</li>
+<li>Não me sentia nem um pouco capaz quando via as qualificações necessárias de cada vaga, tinha a sensação (ou melhor, tinha certeza!) de que não sabia de nada</li>
+<li>Nesse momento a <a href="https://pt.wikipedia.org/wiki/S%C3%ADndrome_do_impostor" target="_blank"><strong>síndrome do impostor</strong></a> tende a se intensificar, e eu passei a me questionar como consegui meu emprego anterior, já que depois de mais de 3 anos trabalhando na área, aparentemente, eu não servia para nenhuma outra empresa</li>
+<li>Tentei começar a estudar de imediato, mas tinha tanta coisa que eu precisava aprender, que me senti totalmente perdido</li>
+<li>Comecei a dar desculpas para mim mesmo, e isso é bem comum. Quem nunca disse que não tinha tempo para estudar, e meia hora depois estava maratonando uma série?</li>
+</ul>
+
+<p>Percebi que seria melhor parar um pouco, dar uma respirada, me acalmar e seguir em frente. Aqui você pode:</p>
+
+<ul>
+<li><strong>Definir qual seu objetivo</strong>, mesmo que não seja nada tão específico; na época eu resolvi que queria ser um desenvolvedor full stack (minha experiência era basicamente com backend)</li>
+<li><strong>Pesquisar o que é necessário para chegar onde quer</strong>, procurar vagas, se basear em alguém que você tem como referência, acompanhar as tendências do mercado, etc; eu tive muito interesse em uma vaga numa empresa que desenvolve ferramentas utilizando realidade aumentada, e comecei a me dedicar no que eles pediam (spoiler: não consegui a vaga)</li>
+<li><strong>Criar pequenos objetivos a curto prazo</strong>, porque eles vão te ajudar a ver que é possível sim aprender bem rápido, e isso vai te manter mais motivado</li>
+<li><strong>Fazer uma lista de prioridades</strong>; por exemplo: se preciso aprender 3 novas ferramentas (linguagem de programação, banco de dados, etc), quais delas vou precisar mais a curto prazo? Na época eu comecei a estudar mais intensamente frontend, e paralelamente me dediquei a aprender um framework JavaScript do qual eu nunca tinha ouvido falar antes</li>
+</ul>
+
+<h2 id="o-aprendizado-contínuo">O aprendizado contínuo</h2>
+
+<p>Decidir sair da zona de conforto não me fez conseguir a vaga que eu tanto, mas me fez conseguir ver os benefícios de manter uma rotina de aprendizado contínuo (e ainda me proporcionou um emprego numa empresa excelente e trabalhar com profissionais incríveis).</p>
+
+<p>Antes de tudo, <strong>&ldquo;aprendizado contínuo&rdquo;</strong> é simplesmente manter uma constante atualização e aquisição de conhecimentos. E aqui vão alguns motivos para seguir uma rotina de aprendizado contínuo:</p>
+
+<ul>
+<li>É extremamente importante nos dias de hoje, e ainda mais na área de TI, que está em constante atualização</li>
+<li>Saber mais significa um aumento na habilidade de resolver problemas; é simples: sabendo mais você tem a capacidade de atuar em tarefas mais variadas</li>
+<li>Segundo Jonas Prising, CEO da ManpowerGroup, <a href="https://www.linkedin.com/pulse/job-life-model-dead-heres-what-millennials-need-know-jonas-prising/" target="_blank">&ldquo;o modelo de um emprego para a vida toda está morto&rdquo;</a> (recomendo muito fazer uma pausa para essa leitura)</li>
+<li>Uma tendência que vejo é que cada vez mais as empresas buscam por um profissional &ldquo;resolvedor de problemas&rdquo;; ou seja, um profissional que tem a capacidade lógica de - não exatamente resolver qualquer problema, mas ter uma noção do que se trata e saber direcionar para a área ou pessoa certa; isso está bem ligado a capacidade de um profissional &ldquo;T&rdquo;, que tem um conhecimento mais aprofundado numa área específica (a linha vertical do &ldquo;T&rdquo;) e pelo menos um conhecimento básico em diversas outras (a linha horizontal do &ldquo;T&rdquo;)</li>
+</ul>
+
+<p>Uma vez que resolver manter uma rotina de aprendizado contínuo, é hora de começar a estudar. Aqui vão algumas dicas:</p>
+
+<ul>
+<li><strong>Experimente diversas formas de estudar</strong> e encontre a que se encaixa melhor para você. Eu, por exemplo, não gosto de videoaulas (enquando vejo bastante gente que estuda principalmente assim) porque não consigo me manter focado em vídeos. No meu caso, ler a documentação do que estiver estudando, fazer anotações (no papel mesmo) e exercícios práticos, me ajuda a fixar melhor</li>
+<li><strong>Pratique bastante</strong>, essa é a melhor forma de fixar o que aprendeu</li>
+<li><strong>Compartilhe seu conhecimento e esteja disposto a ajudar outras pessoas</strong>. Sempre que me disponho a ajudar alguém, pesquiso bastante para garantir que não vou passar nenhuma informação errada, e sempre acabo aprendendo algo novo; tanto com as pesquisas quanto com a pessoa que estou ajudando</li>
+<li><strong>Defina metas</strong>. Para mim o ideal é ter uma meta maior, a longo prazo, e outras menores que eu consiga alcançar logo. Aqui dá até para usar alguma metodologia como o <a href="https://rockcontent.com/blog/okr/" target="_blank">OKR</a> ou qualquer outra que você se sinta mais confortável</li>
+<li><strong>Crie uma rotina de estudos</strong>. Comece a estudar diariamente ou na frequência que puder. Uma pesquisa revelou que <a href="https://www.spring.org.uk/2009/09/how-long-to-form-a-habit.php" target="_blank">a gente leva em média 66 dias para criar um novo hábito</a> e este realmente fazer parte da nossa rotina</li>
+<li><strong>Estude pelo menos um minuto por dia</strong>. Essa é a ideia do <a href="https://iheartintelligence.com/overcome-laziness/" target="_blank">Kaizen e a prática de um minuto diário</a> para evitar a procrastinação. A ideia é que um minuto é muito pouco, então é possível praticar diariamente, e ao mesmo tempo é tão pouco que a gente sempre vai querer passar um pouco mais de tempo</li>
+<li><strong>Mantenha o foco no seu objetivo</strong>. Não adianta querer abraçar o mundo, fazer várias coisas ao mesmo tempo e não conseguir se aprofundar em nada</li>
+</ul>
+
+<h3 id="as-three-ways-do-devops-e-o-aprendizado-contínuo">As three ways do DevOps e o aprendizado contínuo</h3>
+
+<p>A gente passa basicamente 8 horas por dia, pelo menos 5 dias por semana pensando no como, e agindo para entregar valor aos nosso clientes. Mas muitas vezes negligenciamos o bem valioso que é nosso próprio conhecimento. Da mesma forma que as <a href="https://itrevolution.com/the-three-ways-principles-underpinning-devops/" target="_blank">Three Ways do DevOps</a> nos ajudam a entregar valor para nossos clientes, elas podem nos ajudar a ter uma rotina melhor de estudos.</p>
+
+<p>Aqui vão algumas lições que podemos tirar delas:</p>
+
+<h4 id="first-way-princípio-do-fluxo">First Way: Princípio do fluxo</h4>
+
+<ul>
+<li><strong>Visualize o trabalho</strong> - Visualizar o trabalho te ajuda a se planejar melhor, e até a não se esquecer. Gosto de acompanhar minhas tarefas (não só as relacionadas a estudo) com um pequeno <a href="https://blog.runrun.it/o-que-e-kanban/" target="_blank">Kanban</a></li>
+<li><strong>Evite muitas mudanças de contexto</strong> - Ficar mudando de tarefas ou se distraindo constamente atrapalha sua concentração. No momento em que estiver estudando tente focar somente nisso. Coloque o celular no silencioso, saia das redes sociais, e evite conversas paralelas</li>
+<li><strong>Limite os WIP</strong> (<em>Work in progress</em>) - Quanto mais coisas você estiver estudando paralelamente, maior vai ser o tempo para &ldquo;concluir&rdquo; algo (ou alcançar o nível desejado). Isso é bem relacionado ao item anteior. Tente limitar a uma quantidade que não te atrapalhe. E não existe número mágico, então o ideal é ir experimentando e ajustar da maneira que fique mais confortável para você</li>
+</ul>
+
+<h4 id="second-way-feedback-contínuo">Second Way: Feedback contínuo</h4>
+
+<ul>
+<li><strong>Pratique e faça auto avaliações constantemente</strong> - Se avaliar é muito necessário, já que essa é a melhor maneira de notar sua evolução. Faça testes e atividades práticas com frequência, ou peça para alguém com mais experiência te ajudar nesse ponto</li>
+<li><strong>Se avaliar permite que você encontre seus pontos fracos</strong> - Se avaliar te ajuda a encontrar seus pontos mais fracos, e esses não devem ser ignorados. Pelo contrário, aproveite para focar no que você tem mais dificuldade. Eu, por exemplo, tenho uma certa dificuldade em aprender coisas relacionadas a redes de computadores; então, ao invés de evitar, procuro estar sempre estudando algo sobre isso</li>
+<li><strong>Meça sua evolução</strong> - Manter uma visualização do trabalho, como falado anteriormente, também te ajuda a avaliar sua evolução. Com certeza acompanhar de maneira mais visível o quanto você já fez vai te manter motivado</li>
+<li><strong>Se encontrar alguma &ldquo;falha&rdquo;, faça um &ldquo;swarming&rdquo;</strong> - É comum que estudando alguma coisa, a gente encontre um ponto relacionado a outro conhecimento que não temos. Nesse momento, o melhor a se fazer é parar um pouco, e entender pelo menos o básico desse outro conhecimento para evitar que isso atrapalhe o avanço dos seus estudos</li>
+</ul>
+
+<h4 id="third-way-experimentação-contínua-e-aprendizado">Third Way: Experimentação contínua e aprendizado</h4>
+
+<ul>
+<li><strong>Não existe falha, só aprendizado</strong> - Uma coisa que a cultura DevOps nos encoraja muito a praticar é que nossos erros sirvam para aprendizado e melhoria. Quando algo der errado, aprenda com o ocorrido e use isso para melhorar o que estiver fazendo, ao invés de se sentir culpado</li>
+<li><strong>Se algo der errado, experimente uma nova maneira de fazer</strong> - Como falei anteriormente em alguns pontos, não existe uma fórmula mágica para como ou o que estudar. Por isso, experimentar novas maneiras de fazer devem ser parte do nosso dia-a-dia. Só assim conseguimos encontrar o que funciona melhor para nós</li>
+<li><strong>Repetição e prática são pré-requisitos para dominar qualquer coisa</strong></li>
+<li><strong>Se arrisque</strong> - Nunca tenha medo de se arriscar. Pelo contrário: procure fazer isso. Aceite novos desafios e projetos, experimente estudar coisas de outras áreas, e procure sempre coisas novas; afinal, essa prática ajuda nosso cérebro a ter mais facilidade em assimilar novas informações</li>
+</ul>
+
+<h2 id="dicas-finais">Dicas finais</h2>
+
+<ul>
+<li><strong>Ninguém é melhor que ninguém</strong> - É comum admirarmos pessoas, e acharmos que elas são &ldquo;seres superiores&rdquo;, mas isso não é verdade. É possível sim chegar (e até passar!) ao nível delas. Na maioria das vezes elas só tem mais tempo de experiência ou tiveram mais oportunidades que nós</li>
+<li><strong>Nunca é tarde para começar</strong> - Não existe &ldquo;tarde&rdquo; para começar uma mudança. Temos vários exemplos de pessoas que começaram uma faculdade aos 70 ou 80 anos; então não deixe que essa ideia te impeça de começar ou te desmotive</li>
+<li><strong>Respeite seu tempo e seu ritmo</strong> - Mais importante de tudo: cada um tem seu ritmo, seus problemas e seu tempo. Manter uma rotina de aprendizado contínuo não deve ser algo exaustivo ou que te cause estresse. Não se cobre demais, e procure sempre manter um equilíbrio entre os estudos e o lazer. Isso é essencial para ter uma boa qualidade de vida!</li>
+</ul>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

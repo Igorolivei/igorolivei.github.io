@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://igorolivei.github.io/posts/2019/05/da-zona-de-conforto-ao-aprendizado-cont%C3%ADnuo/</loc>
+    <lastmod>2019-05-30T21:25:09-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://igorolivei.github.io/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-30T21:25:09-03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -16,6 +21,46 @@
                 hreflang="pt"
                 href="https://igorolivei.github.io/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://igorolivei.github.io/posts/</loc>
+    <lastmod>2019-05-30T21:25:09-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://igorolivei.github.io/tags/</loc>
+    <lastmod>2019-05-30T21:25:09-03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://igorolivei.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://igorolivei.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://igorolivei.github.io/tags/aprendizado-continuo/</loc>
+    <lastmod>2019-05-30T21:25:09-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://igorolivei.github.io/tags/three-ways/</loc>
+    <lastmod>2019-05-30T21:25:09-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://igorolivei.github.io/tags/zona-de-conforto/</loc>
+    <lastmod>2019-05-30T21:25:09-03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -35,21 +80,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://igorolivei.github.io/index.html"
-                />
-  </url>
-  
-  <url>
-    <loc>https://igorolivei.github.io/tags/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://igorolivei.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://igorolivei.github.io/tags/"
                 />
   </url>
   
