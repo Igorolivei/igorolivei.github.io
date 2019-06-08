@@ -966,11 +966,17 @@ PLAY RECAP *********************************************************************
 
 <h3 id="concluindo-a-instalação-do-gitea">Concluindo a instalação do Gitea</h3>
 
-<p>Para concluir a instalação, acesse <code>http://&lt;RASPBERRY_IP&gt;/gitea/install</code>, e preencha os campos necessários:
-  - Configure a conexão ao banco:
-    - Senha: A senha definida no inventory.txt (no exemplo dado, utilizei <code>g1te4</code>)
-  - Opcionalmente crie uma conta de administrador; do contrário, a conta utilizada de administrador será a primeira conta que for criada
-  - Clique em &ldquo;Instalar Gitea&rdquo;, e pronto!</p>
+<p>Para concluir a instalação, acesse <code>http://&lt;RASPBERRY_IP&gt;/gitea/install</code>, e preencha os campos necessários:</p>
+
+<ul>
+<li>Configure a conexão ao banco:
+
+<ul>
+<li>Senha: A senha definida no inventory.txt (no exemplo dado, utilizei <code>g1te4</code>)</li>
+</ul></li>
+<li>Opcionalmente crie uma conta de administrador; do contrário, a conta utilizada de administrador será a primeira conta que for criada</li>
+<li>Clique em &ldquo;Instalar Gitea&rdquo;, e pronto!</li>
+</ul>
 
 <p>Servidor git pronto para uso! :)</p>
 
